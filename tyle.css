@@ -1,10 +1,11 @@
-<header>{
+header
+{
 
-margin: 50px;
+margin: 50 px;
 
 background-color: black;
 
-justify-content: ;
+justify-content:30;
 }
 
 
@@ -17,15 +18,11 @@ color: white;
 }
 
 section{
+background-color: white;
 
-    background-color: white;
-
-margin: 50px;
+margin: 50 px;
 display: flex;
 
-<padding>
-
-
-
+border: solid 5 px rgb(red, green, blue);
 
 
