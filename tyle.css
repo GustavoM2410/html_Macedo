@@ -5,7 +5,6 @@ margin: 50 px;
 
 background-color: black;
 
-justify-content:30;
 }
 
 
@@ -16,16 +15,29 @@ color: white;
 
 
 }
-
+header
 section{
 background-color: white;
 
 margin: 50 px;
-display: flex;
 
 border: solid 5 px rgb(red, green, blue);
 
-padding: 44px; ;
+padding: 44 px; ;
 border: 3 px;
+display: flex;
+justify-content:senter;
+
+}
+.primeira chamada{
+
+margin: right : 5% ;
+
+}
+.assista mais videos{
+
+display: flex;
+overflow: auto;
+gap: 10 pxoverflow;
 
 }
